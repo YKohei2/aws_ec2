@@ -218,6 +218,7 @@ DEPENDENCIES
   selenium-webdriver
   spring
   sqlite3 (~> 1.4)
+  mysql2 (>=0.4.4, <=8.0.23)
   turbolinks (~> 5)
   tzinfo-data
   web-console (>= 4.1.0)
